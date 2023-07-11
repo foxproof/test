@@ -1,1 +1,1 @@
-qwreasdfasdaad
+print('gg bb')
